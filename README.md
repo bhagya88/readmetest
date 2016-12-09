@@ -124,7 +124,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 | Conclusion                                                                                  | 25.3     | Inv<br>id date            | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
 | HTML & CSS Intro                                                                            | 1.2      | Tue<br>Nov 29, 2016       | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
 | Review + Git Branching & Heroku                                                             | 2.1      | Tue<br>Nov 29, 2016       | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| HTML CSS Git                                                                                | 1.3      | Thu<br>Dec 1, 2016 1      | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Bootstrap Continued                                                                         | 2.3      | Thu<br>Dec 1, 2016 1      | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Arrays Loops RPS Breakpoints                                                                | 3.2      | Tue<br>Dec 6, 2016 1      | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| JavaScript Scope + jQuery Continued                                                         | 4.2      | Tue<br>Dec 6, 2016 1      | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
+| HTML CSS Git                                                                                | 1.3      | Thu<br>Dec 1, 2016        | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
+| Bootstrap Continued                                                                         | 2.3      | Thu<br>Dec 1, 2016        | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
+| Arrays Loops RPS Breakpoints                                                                | 3.2      | Tue<br>Dec 6, 2016        | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
+| JavaScript Scope + jQuery Continued                                                         | 4.2      | Tue<br>Dec 6, 2016        | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |

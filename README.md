@@ -2,7 +2,7 @@
 
 # The Coding Bootcamp at UT Austin
 
-#### July 2016 TR - Cohort Curriculum Syllabus
+#### July 24, 2016 - Cohort Curriculum Syllabus
 
 --------------------------------------------
 
@@ -53,78 +53,78 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 ##### The material covered in this syllabus is subject to change. Our academic team adjusts to the market rapidly.
 | Subject                                                                                     | Lesson # | Date<br>M/W/S             | Date<br>T/T/S             | Recordings               |
 | ------------------------------------------------------------------------------------------- | -------: | ------------------------: | ------------------------: | :----------------------: |
-| Kickoff                                                                                     | 1.1      | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Branching & Bootstrap                                                                       | 2.2      | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Intro to JavaScript                                                                         | 3.1      | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Objects & Functions                                                                         | 3.3      | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Intro to jQuery                                                                             | 4.1      | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Using Arrays & Objects With jQuery                                                          | 4.3      | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Javascript Review Day                                                                       | 5.1      | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Javascript / jQuery Timers                                                                  | 5.2      | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Technical Interview Day #1                                                                  | 5.3      | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Intro to APIs and AJAX                                                                      | 6.1      | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Advanced AJAX                                                                               | 6.2      | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| New York Times Real World App Development                                                   | 6.3      | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Intro to Client-Side Storage                                                                | 7.1      | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Intro to Firebase                                                                           | 7.2      | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Firebase Application Building + Groups For Projects Announced                               | 7.3      | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Intro to Project #1 / Project Work                                                          | 8.1      | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Project Work                                                                                | 8.2      | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Project Work                                                                                | 8.3      | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Interview Questions and Project Work-Pt.1                                                   | 9.1      | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Interview Questions and Project Work-Pt.2                                                   | 9.2      | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Project Presentations #1                                                                    | 9.3      | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Intro to Node.js                                                                            | 10.1     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Reading and Writing Files with Node                                                         | 10.2     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| NPM Packages                                                                                | 10.3     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Javascript Constructors Pt I                                                                | 11.1     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Javascript Constructors Pt II                                                               | 11.2     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Javascript Callbacks                                                                        | 11.3     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Introduction to MySQL                                                                       | 12.1     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Node - MySQL Integration                                                                    | 12.2     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Massive MySQL Data Project                                                                  | 12.3     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Intro to Node Web Servers                                                                   | 13.1     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Intro to Express Servers                                                                    | 13.2     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Hot Restaurant - Backend Application0                                                       | 13.3     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Intro to Handlebars                                                                         | 14.1     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Express.js + Handlebars.js + MySQL                                                          | 14.2     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Intro to ORMs                                                                               | 14.3     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Sequelize ORM                                                                               | 15.1     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Sequelized Associations                                                                     | 15.2     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Sequelize Relationship and Migrations / Intro to Project #2                                 | 15.3     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Project Work                                                                                | 16.1     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Testing / Project Work                                                                      | 16.2     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| No class                                                                                    | 16.3     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| SEO / Project Work                                                                          | 17.1     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Project Work / SEO (Time Permitting)                                                        | 17.2     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Intro to MongoDB                                                                            | 17.3     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Project Presentations #2                                                                    | 18.1     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Web Scraping / MongoDB                                                                      | 18.2     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Mongoose ORM                                                                                | 18.3     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Intro to React.js                                                                           | 19.1     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| React States and Props                                                                      | 19.2     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| MERN Stack (Mongo-Express-React-Node)                                                       | 19.3     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| React Native                                                                                | 20.1     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| React Native                                                                                | 20.2     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| React Native / Intro to Project # 3                                                         | 20.3     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Intro to PHP                                                                                | 21.1     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Intro to Laravel                                                                            | 21.2     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Laravel                                                                                     | 21.3     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Search & Sort Algorithms / Project Work                                                     | 22.1     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Intro to Data Structures / Project Work                                                     | 22.2     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Intro to Design Patterns / Project Work                                                     | 22.3     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Three Programming Languages (Ruby)                                                          | 23.1     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Three Programming Languages (Java)                                                          | 23.2     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Three Programming Languages (Python-Go-PHP-C# etc)                                          | 23.3     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Project Work                                                                                | 24.1     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Project Work                                                                                | 24.2     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Final Project Presentations                                                                 | 24.3     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Project Work                                                                                | 25.1     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Demo Day                                                                                    | 25.2     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Conclusion                                                                                  | 25.3     | Inv<br>id date                 | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| HTML & CSS Intro                                                                            | 1.2      | Tue<br>Nov 29, 2016            | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Review + Git Branching & Heroku                                                             | 2.1      | Tue<br>Nov 29, 2016            | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| HTML CSS Git                                                                                | 1.3      | Thu<br>Dec 1, 2016             | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Bootstrap Continued                                                                         | 2.3      | Thu<br>Dec 1, 2016             | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| Arrays Loops RPS Breakpoints                                                                | 3.2      | Tue<br>Dec 6, 2016             | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
-| JavaScript Scope + jQuery Continued                                                         | 4.2      | Tue<br>Dec 6, 2016             | Invalid date              | [Josh](undefined)<br>[Gerald](undefined) |
+| Review + Git Branching & Heroku                                                             | 2.1      | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Bootstrap Continued                                                                         | 2.3      | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Arrays Loops RPS Breakpoints                                                                | 3.2      | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Objects & Functions                                                                         | 3.3      | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Intro to jQuery                                                                             | 4.1      | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| JavaScript Scope + jQuery Continued                                                         | 4.2      | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Using Arrays & Objects With jQuery                                                          | 4.3      | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Javascript Review Day                                                                       | 5.1      | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Javascript / jQuery Timers                                                                  | 5.2      | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Technical Interview Day #1                                                                  | 5.3      | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Intro to APIs and AJAX                                                                      | 6.1      | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Advanced AJAX                                                                               | 6.2      | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| New York Times Real World App Development                                                   | 6.3      | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Intro to Client-Side Storage                                                                | 7.1      | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Intro to Firebase                                                                           | 7.2      | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Firebase Application Building + Groups For Projects Announced                               | 7.3      | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Intro to Project #1 / Project Work                                                          | 8.1      | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Project Work                                                                                | 8.2      | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Project Work                                                                                | 8.3      | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Interview Questions and Project Work-Pt.1                                                   | 9.1      | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Interview Questions and Project Work-Pt.2                                                   | 9.2      | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Project Presentations #1                                                                    | 9.3      | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Intro to Node.js                                                                            | 10.1     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Reading and Writing Files with Node                                                         | 10.2     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| NPM Packages                                                                                | 10.3     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Javascript Constructors Pt I                                                                | 11.1     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Javascript Constructors Pt II                                                               | 11.2     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Javascript Callbacks                                                                        | 11.3     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Introduction to MySQL                                                                       | 12.1     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Node - MySQL Integration                                                                    | 12.2     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Massive MySQL Data Project                                                                  | 12.3     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Intro to Node Web Servers                                                                   | 13.1     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Intro to Express Servers                                                                    | 13.2     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Hot Restaurant - Backend Application0                                                       | 13.3     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Intro to Handlebars                                                                         | 14.1     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Express.js + Handlebars.js + MySQL                                                          | 14.2     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Intro to ORMs                                                                               | 14.3     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Sequelize ORM                                                                               | 15.1     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Sequelized Associations                                                                     | 15.2     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Sequelize Relationship and Migrations / Intro to Project #2                                 | 15.3     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Project Work                                                                                | 16.1     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Testing / Project Work                                                                      | 16.2     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| No class                                                                                    | 16.3     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| SEO / Project Work                                                                          | 17.1     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Project Work / SEO (Time Permitting)                                                        | 17.2     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Intro to MongoDB                                                                            | 17.3     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Project Presentations #2                                                                    | 18.1     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Web Scraping / MongoDB                                                                      | 18.2     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Mongoose ORM                                                                                | 18.3     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Intro to React.js                                                                           | 19.1     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| React States and Props                                                                      | 19.2     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| MERN Stack (Mongo-Express-React-Node)                                                       | 19.3     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| React Native                                                                                | 20.1     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| React Native                                                                                | 20.2     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| React Native / Intro to Project # 3                                                         | 20.3     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Intro to PHP                                                                                | 21.1     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Intro to Laravel                                                                            | 21.2     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Laravel                                                                                     | 21.3     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Search & Sort Algorithms / Project Work                                                     | 22.1     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Intro to Data Structures / Project Work                                                     | 22.2     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Intro to Design Patterns / Project Work                                                     | 22.3     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Three Programming Languages (Ruby)                                                          | 23.1     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Three Programming Languages (Java)                                                          | 23.2     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Three Programming Languages (Python-Go-PHP-C# etc)                                          | 23.3     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Project Work                                                                                | 24.1     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Project Work                                                                                | 24.2     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Final Project Presentations                                                                 | 24.3     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Project Work                                                                                | 25.1     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Demo Day                                                                                    | 25.2     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Conclusion                                                                                  | 25.3     | Inv<br>id date                 | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Kickoff                                                                                     | 1.1      | Mon<br>Nov 28, 2016            | Wed, Nov 30, 2016 12:00 AM | [Josh](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a9079a68-2595-483d-b88f-c38578ddaa48)<br>[Gerald](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=23b59d39-172f-4b61-87be-fe0212638c12) |
+| HTML & CSS Intro                                                                            | 1.2      | Wed<br>Nov 30, 2016            | Thu, Dec 1, 2016 12:00 AM | [Josh](null)<br>[Gerald](null) |
+| HTML CSS Git                                                                                | 1.3      | Sat<br>Dec 3, 2016             | Invalid date              | [Josh](null)<br>[Gerald](null) |
+| Branching & Bootstrap                                                                       | 2.2      | Mon<br>Dec 5, 2016             | Wed, Dec 7, 2016 12:00 AM | [Josh](null)<br>[Gerald](null) |
+| Intro to JavaScript                                                                         | 3.1      | Tue<br>Dec 13, 2016            | Thu, Dec 15, 2016 12:00 AM | [Josh](null)<br>[Gerald](null) |

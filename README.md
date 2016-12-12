@@ -32,13 +32,13 @@ You must give a full effort on every group and individual project.
 
 -----------------------------------------
 
-## Important Links And Notes (To be Updated prior to July 25)
+## Important Links And Notes 
 
-[Slack Room (UPDATE)]()
+[Slack Room (UPDATE)](null)
 
-[Absence Request Form (UPDATE)]()
+[Absence Request Form (UPDATE)](null)
 
-[Student x Student Tutoring Form (UPDATE)]()
+[Student x Student Tutoring Form (UPDATE)](null)
 
 [Weekly Student Feedback Form (UPDATE)](http://www.bootcampspot.com/feedback/studentFeedback)
 
@@ -48,7 +48,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 
 -----------------------------------------
 
-## Curriculum By Week (To be Finalized by July 25)
+## Curriculum By Week 
 
 ##### The material covered in this syllabus is subject to change. Our academic team adjusts to the market rapidly.
 | Subject                                                                                     | Lesson # | Date<br>M/W/S             | Date<br>T/T/S             | Recordings               |
